@@ -1,3 +1,5 @@
+# A partir d'un raspbian-light
 # Package a installer:
 apt-get install vim omxplayer gpm links2
 # To run the web browser : links2 -g -driver fb <page de départ>
+# a voir pour copier le .bashrc de pi vers root pour avoir des couleurs
