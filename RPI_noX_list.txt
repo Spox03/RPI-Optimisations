@@ -1,0 +1,3 @@
+# Package a installer:
+apt-get install vim omxplayer gpm links2
+# To run the web browser : links2 -g -driver fb <page de départ>
