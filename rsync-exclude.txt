@@ -1,0 +1,15 @@
+/proc/*
+/sys/*
+/dev/*
+/boot/*
+/tmp/*
+/run/*
+/mnt/*
+/media/*
+
+.bash_history
+/etc/fake-hwclock.data
+/var/lib/rpimonitor/stat/
+lost+found
+/home/pi/.cache
+.fseventsd
