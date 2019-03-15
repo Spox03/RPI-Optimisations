@@ -25,10 +25,15 @@ disable_overscan=1
 #hdmi_force_hotplug=1
 
 # uncomment to force a specific HDMI mode (this will force VGA)
+#hdmi_force_mode=1
+#hdmi_group=2
+#hdmi_mode=87
+
+[EDID=N/A-]
+hdmi_force_hotplug=1
 hdmi_group=2
 hdmi_mode=87
 hdmi_cvt=800 480 60 6 0 0 0
-#hdmi_force_mode=1
 
 [EDID=VUF-VUFINE_1_3]
 hdmi_group=1
